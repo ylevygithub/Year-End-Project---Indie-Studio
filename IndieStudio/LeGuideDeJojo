@@ -1,0 +1,8 @@
+salut les cop1, si vous voulez utilisez CMake:
+
+mkdir build
+cd build/
+cmake ..
+make
+
+VOILA C BON !
