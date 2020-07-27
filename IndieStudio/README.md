@@ -4,6 +4,7 @@ With over 70 franchises, ranging from the first version on MSX, ZX Spectrum and 
 to the lastest versions on modern consoles, over 10 million units have been sold.
 Our gameplay reference is Neo Bomberman, released on the Neo Geo and MVS systems in 1997.
 Here’s the required features :
+
 • Local multi-player with the possibility the play with a friend + AI’s controlled bots.
 • A main game menu (to start a new game or load an existing one).
 • Your game must feature 3D graphics but a 2D gameplay.
